@@ -56,4 +56,8 @@ from google_finance_scraper import get_stock_news
 news_df = asyncio.run(get_stock_news("SYMBOL:EXCHANGE"))
 print(news_df)
 ```
+## 📦 PyPI Package
+
+You can find the package here:  
+🔗 [Google Finance Scraper on PyPI](https://pypi.org/project/google-finance-scraper/)
 
